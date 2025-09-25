@@ -1,8 +1,8 @@
 # ~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~
 
 <br>
-
 <div align="center">
+ <!-- <a href="https://discord.com/users/1240146115962077246" > -->
   <a href="https://light2711.netlify.app/">
     <img src="https://lanyard.kyrie25.dev/api/1240146115962077246??imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(2px)%20brightness(0.8)&waveColor=transparent&gradient=7E37F9-B48EF7-E568C4&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=true" />
   </a>
