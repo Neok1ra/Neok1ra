@@ -24,24 +24,24 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Miella</li>
+ <b>Name:</b> Light</li>
 <li>
 <b>Fursona:</b> Grey Wolf/Snow Fox, sometimes a Bird
 </li>
 <li>
-<b>Loves:</b> anime, osu, rhythm games
+<b>Loves:</b> anime, osu, rhythm games,Red temming 
 </li>
 <li>
-<b>Gender:</b> she/her/Female
+<b>Gender:</b> he/him/Male
 </li>
 <li>
 <b>LastFM:</b> https://scrobble.egirl.ing
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development,Destroying systems 
 </li>
 <li>
-<b>Working @:</b> Intave Anticheat
+<b>Working @:</b> 
 </li>
 <br><br><br>
 </div>
